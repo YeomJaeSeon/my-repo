@@ -4,3 +4,4 @@
 4
 backup
 나는양아치
+안녕 난 clone(복원)한 local repository야
